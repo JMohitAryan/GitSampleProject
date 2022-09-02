@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // name
-        // hi new xhnhdgsajdhj
+        // hi this is th e
     }
 }
